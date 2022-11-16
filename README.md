@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santimoncada&hide=VHDL&layout=compact)](https://github.com/santimoncada&hide=javascript/github-readme-stats)
 <!--
 **SantiMoncada/santiMoncada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
