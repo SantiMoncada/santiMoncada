@@ -1,6 +1,6 @@
 [![Profile badge](https://www.codewars.com/users/SandySaint/badges/large)](https://www.codewars.com/users/SandySaint)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santimoncada&hide=VHDL&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santimoncada&hide=VHDL&layout=compact)
 <!--
 **SantiMoncada/santiMoncada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
